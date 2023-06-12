@@ -84,6 +84,17 @@ content:
         description: | # this will include new lines to allow paragraphs
           Research and development of reconfigurable in-memory RRAM-CMOS circuit and systems.
 
+      - layout: left
+        title: University of Southampton (UK)
+        link: ---
+        # link_text: boringcompany.com
+        sub_title: Post-Doctoral Research Fellow
+        caption: Sep 2021 - April 2022
+        quote: >
+          ...
+        description: | # this will include new lines to allow paragraphs
+          ---
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -97,14 +108,33 @@ content:
           Research on RRAM-based Threshold Logic Gates and Winner Take All circuits and systems
 
 
+      - layout: left
+        title: Democritus University of Thrace (Greece)
+        caption: 2015 - 2017
+        sub_title: MSc in Electronics and Computer Science
+        quote: >
+          ...
+        description: | # this will include new lines to allow paragraphs
+        ---
+
+
+      - layout: left
+        title: Democritus University of Thrace (Greece)
+        caption: 2009 - 2015
+        sub_title: Diploma-MEng in Electronics and Computer Science
+        quote: >
+          ...
+        description: | # this will include new lines to allow paragraphs
+          ---
+
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Alongside my research interests in circuits and systems some of my other interests and hobbies are:
       - ...
       - ...
 
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true

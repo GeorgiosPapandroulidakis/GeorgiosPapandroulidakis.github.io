@@ -84,7 +84,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Research and development of reconfigurable in-memory RRAM-CMOS circuit and systems.
 
-      - layout: left
         title: University of Southampton (UK)
         link: ---
         # link_text: boringcompany.com
@@ -108,7 +107,6 @@ content:
           Research on RRAM-based Threshold Logic Gates and Winner Take All circuits and systems
 
 
-      - layout: left
         title: Democritus University of Thrace (Greece)
         caption: 2015 - 2017
         sub_title: MSc in Electronics and Computer Science
@@ -118,7 +116,6 @@ content:
         ---
 
 
-      - layout: left
         title: Democritus University of Thrace (Greece)
         caption: 2009 - 2015
         sub_title: Diploma-MEng in Electronics and Computer Science

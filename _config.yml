@@ -83,15 +83,7 @@ content:
           ...
         description: | # this will include new lines to allow paragraphs
           Research and development of reconfigurable in-memory RRAM-CMOS circuit and systems.
-        title: University of Edinburgh (UK)
-        link: https://cef.eng.ed.ac.uk/about/our-team/georgios-papandroulidakis
-        link_text: Centre for Electronics Frontiers Research Group, IMNS, Schoolf of Engineering
-        sub_title: Post-Doctoral Research Associate
-        caption: May 2022 - Present
-        quote: >
-          ...
-        description: | # this will include new lines to allow paragraphs
-          Research and development of reconfigurable in-memory RRAM-CMOS circuit and systems.
+
 
 
   - title: Education # Title for the section

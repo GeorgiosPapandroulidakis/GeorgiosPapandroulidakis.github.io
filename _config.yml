@@ -76,7 +76,7 @@ content:
       - layout: left
         title: University of Edinburgh (UK)
         link: https://cef.eng.ed.ac.uk/about/our-team/georgios-papandroulidakis
-        link_text: Centre for Electronics Frontiers Research Group, IMNS, Schoolf of Engineering
+        link_text: Centre for Electronics Frontiers Research Group, IMNS, School of Engineering
         sub_title: Post-Doctoral Research Associate
         caption: May 2022 - Present
         quote: >
@@ -109,7 +109,7 @@ content:
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title:
 
 # Build settings
 remote_theme: sproogen/resume-theme

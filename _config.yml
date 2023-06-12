@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Georgios Papandroulidakis
-title: Research Associate
+title: Researcher
 email: gpapandr@ed.ac.uk
 website: https://georgiospapandroulidakis.github.io/
 
@@ -74,25 +74,25 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Edinburgh (UK)
-        link: ---
-        # link_text: boringcompany.com
-        sub_title: Post-Doctoral Research Associate
-        caption: May 2022 - Present
-        quote: >
-          ...
-        description: | # this will include new lines to allow paragraphs
-          Research and development of reconfigurable in-memory RRAM-CMOS circuit and systems.
+        - title: University of Edinburgh (UK)
+          link: https://cef.eng.ed.ac.uk/about/our-team/georgios-papandroulidakis
+          # link_text: boringcompany.com
+          sub_title: Post-Doctoral Research Associate
+          caption: May 2022 - Present
+          quote: >
+            ...
+          description: | # this will include new lines to allow paragraphs
+            Research and development of reconfigurable in-memory RRAM-CMOS circuit and systems.
 
-        # title: University of Southampton (UK)
+        - title: University of Southampton (UK)
         # link: ...
         # link_text: boringcompany.com
-        # sub_title: Post-Doctoral Research Fellow
-        # caption: Sep 2021 - April 2022
-        # quote: >
-        #   ...
-        # description: | # this will include new lines to allow paragraphs
-        #   ...
+          sub_title: Post-Doctoral Research Fellow
+         caption: Sep 2021 - April 2022
+         quote: >
+           ...
+         description: | # this will include new lines to allow paragraphs
+           ...
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)

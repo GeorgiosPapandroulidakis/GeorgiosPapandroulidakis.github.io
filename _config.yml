@@ -84,6 +84,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           Research and development of reconfigurable in-memory RRAM-CMOS circuit and systems.
 
+    #layout: list # Type of content section (list/text)
+    #content:
+      - layout: left
+        title: University of Southampton (UK)
+        link: ...
+        link_text: ...
+        sub_title: Post-Doctoral Research Fellow
+        caption: September 2021 - April 2022
+        quote: >
+          ...
+        description: | # this will include new lines to allow paragraphs
+          ...
+
 
 
   - title: Education # Title for the section
@@ -101,13 +114,24 @@ content:
     #layout: list # Type of content section (list/text)
     #content:
       - layout: left
-        title: University of Southampton (UK)
-        caption: 2017 - 2021
-        sub_title: PhD in Electronics and Computer Science
+        title: Democritus University of Thrace (Greece)
+        caption: 2015 - 2017
+        sub_title: MSc in Electronics and Computer Science
         quote: >
           ...
         description: | # this will include new lines to allow paragraphs
-          Research on RRAM-based Threshold Logic Gates and Winner Take All circuits and systems
+          ...
+
+    #layout: list # Type of content section (list/text)
+    #content:
+      - layout: left
+        title: Democritus University of Thrace (Greece)
+        caption: 2009 - 2015
+        sub_title: Diploma-MEng in Electronics and Computer Science
+        quote: >
+          ...
+        description: | # this will include new lines to allow paragraphs
+          ...
 
 
   - title: A Little More About Me

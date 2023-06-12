@@ -85,14 +85,14 @@ content:
           Research and development of reconfigurable in-memory RRAM-CMOS circuit and systems.
 
         title: University of Southampton (UK)
-        link: ---
+        link: ...
         # link_text: boringcompany.com
         sub_title: Post-Doctoral Research Fellow
         caption: Sep 2021 - April 2022
         quote: >
           ...
         description: | # this will include new lines to allow paragraphs
-          ---
+          ...
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -113,7 +113,7 @@ content:
         quote: >
           ...
         description: | # this will include new lines to allow paragraphs
-        ---
+          ...
 
 
         title: Democritus University of Thrace (Greece)
@@ -122,7 +122,7 @@ content:
         quote: >
           ...
         description: | # this will include new lines to allow paragraphs
-          ---
+          ...
 
 
   - title: A Little More About Me

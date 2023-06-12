@@ -98,8 +98,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           Research on RRAM-based Threshold Logic Gates and Winner Take All circuits and systems
 
-    layout: list # Type of content section (list/text)
-    content:
+    #layout: list # Type of content section (list/text)
+    #content:
       - layout: left
         title: University of Southampton (UK)
         caption: 2017 - 2021

@@ -82,7 +82,7 @@ content:
         quote: >
           ...
         description: | # this will include new lines to allow paragraphs
-          Research and development of reconfigurable in-memory RRAM-CMOS circuit and systems.
+          Research and development of In-Memory Computing Architectures based on hybrid circuit design (emerging memory technologies + CMOS). Custom analogue and mixed-signal IC design and implementation, PCB hardware prototyping, hardware testing enginnering.
 
     #layout: list # Type of content section (list/text)
     #content:
@@ -95,7 +95,7 @@ content:
         quote: >
           ...
         description: | # this will include new lines to allow paragraphs
-          ...
+          Technology consultation for emerging computing technologies with focus on novel AI/ML integration with systems. Designing of evaluation framework for applying AI/ML and other novel technologies to existing systems.
 
 
 
@@ -109,7 +109,7 @@ content:
         quote: >
           ...
         description: | # this will include new lines to allow paragraphs
-          Research on RRAM-based Threshold Logic Gates and Winner Take All circuits and systems
+          Research and design on analogue and mixed-signal circuits and systems based on emerging memory technologies. Focus on RRAM-based Threshold Logic Gates, Winner Take All and Dot Product inference engines circuits and systems. Hardware prototyping, on-wafer measurements and device characterisation, circuits and systems design and testing.
 
     #layout: list # Type of content section (list/text)
     #content:
@@ -120,7 +120,7 @@ content:
         quote: >
           ...
         description: | # this will include new lines to allow paragraphs
-          ...
+          MSc thesis on RRAM-based circuits, sytems and computer architectures.
 
     #layout: list # Type of content section (list/text)
     #content:
@@ -131,14 +131,15 @@ content:
         quote: >
           ...
         description: | # this will include new lines to allow paragraphs
-          ...
+          Electrical and electronics engineering. Diploma thesis on emerging memory devices and hybrid circuit design.
 
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my research interests in circuits and systems some of my other interests and hobbies are:
-      - ...
+      - Python notebooks for data processing and ANN implementations
+      - Electrical and electronics for music
       - ...
 
 
